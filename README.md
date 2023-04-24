@@ -23,7 +23,7 @@ I have good visual design skills, strengthened by two visual design courses at S
 * ****strength****
 I have good communication skills for technical topics I have a good understanding of.
 * ****strength****
-
+Patience
 * ****weakness****
 I have difficulty getting started on tasks that seem overwhelming.
 * ****weakness****
