@@ -2,11 +2,11 @@
 FEWD2 Portfolio Initial Outline
 
 ## Preplanning for a portfolio website
-1.  ***identify users***
+1.  ***Identify Users:***
 I would like to work at a company that creates websites and apps for education and science communication.
-2.  ***outline goals***
+2.  ***Outline Goals:***
 I would like to combine teaching skills and my interest and education in science with the programming and design skills I have gained over the past few years.
-3.  ***current assets***
+3.  ***Current Assets:***
 * Javascript Clock
   Ready or nearly ready
   
