@@ -22,7 +22,7 @@ https://sciwalking.files.wordpress.com/2021/01/newslettertransparent.png![print 
 ![walker_id3_class_portfolio_d4 copy](https://user-images.githubusercontent.com/111401603/234057544-22eb5b7a-7c14-47ef-a071-d902099b386a.png)
 
 
-4.  ***3 strengths/3 weaknesses***
+4.  ***3 Strengths/3 Weaknesses:***
 * ****strength****
 I have good visual design skills, strengthened by two visual design courses at SDCE.
 * ****strength****
@@ -35,5 +35,5 @@ I have difficulty getting started on tasks that seem overwhelming.
 I have trouble transfering visual design skills to website development. I believe this will improve with becoming a more proficient programmer.
 * ****weakness****
 Sometimes reluctant to speak or ask questions if I don't understand something. I have gotten better at this over the past few years
-5.  ***elevator pitch***
+5.  ***Elevator Pitch:***
 I've completed courses and certificate programs in web design, programming, and information technology over the last three years. I have a chemistry degree and worked in manufacturing and process development at biotech companies. I then earned a Teaching Credential and worked as a classroom teacher. I’m looking for a job that will put my skills as a educator and science communicator to work building websites and application to promote learning and understanding, particularly in science education.
