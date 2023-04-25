@@ -34,6 +34,6 @@ I have difficulty getting started on tasks that seem overwhelming.
 * ****weakness****
 I have trouble transfering visual design skills to website development. I believe this will improve with becoming a more proficient programmer.
 * ****weakness****
-Sometimes reluctant to speak or ask questions if I don't understand something. I have gotten better at this over the past few years
+Sometimes reluctant to speak or ask questions if I don't understand something. I have gotten better at this over the past few years.
 5.  ***Elevator Pitch:***
 I've completed courses and certificate programs in web design, programming, and information technology over the last three years. I have a chemistry degree and worked in manufacturing and process development at biotech companies. I then earned a Teaching Credential and worked as a classroom teacher. I’m looking for a job that will put my skills as a educator and science communicator to work building websites and application to promote learning and understanding, particularly in science education.
